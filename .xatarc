@@ -1,8 +1,0 @@
-{
-  "databaseURL": "https://Ifedayo-Gbadebo-s-workspace-at0bai.us-east-1.xata.sh/db/ecommerce",
-  "codegen": {
-    "output": "src/xata.js",
-    "moduleType": "esm",
-    "declarations": true
-  }
-}
